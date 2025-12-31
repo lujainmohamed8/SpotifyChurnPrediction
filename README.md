@@ -244,14 +244,6 @@ Random Forest was selected over other algorithms due to:
 - UI design influenced by Spotify's brand guidelines
 - Thanks to the open-source community for excellent ML libraries
 
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/spotify-churn-prediction/issues)
-- **Project Link**: [https://github.com/yourusername/spotify-churn-prediction](https://github.com/yourusername/spotify-churn-prediction)
-
 ---
 
 <div align="center">
