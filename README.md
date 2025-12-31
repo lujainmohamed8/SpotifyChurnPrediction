@@ -19,9 +19,9 @@
 
 | Team Member | LinkedIn |
 |-------------|----------|
-| **[Team Member 1]** | [linkedin.com/in/profile1](https://linkedin.com/in/profile1) |
-| **[Team Member 2]** | [linkedin.com/in/profile2](https://linkedin.com/in/profile2) |
-| **[Team Member 3]** | [linkedin](https://www.linkedin.com/in/hana-abd-el-kader) |
+| **Lujain Mohamed** | [linkedin.com/in/profile1](https://linkedin.com/in/profile1) |
+| **Elham Mohamed** | [linkedin.com/in/profile2](https://linkedin.com/in/profile2) |
+| **Hana AbdelKader** | [linkedin](https://www.linkedin.com/in/hana-abd-el-kader) |
 | **Ahmed Abdelaazem** | [linkedin](https://www.linkedin.com/in/ahmed-abdelazeem466) |
 
 ---
