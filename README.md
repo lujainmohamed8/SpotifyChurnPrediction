@@ -22,7 +22,7 @@
 | **[Team Member 1]** | [linkedin.com/in/profile1](https://linkedin.com/in/profile1) |
 | **[Team Member 2]** | [linkedin.com/in/profile2](https://linkedin.com/in/profile2) |
 | **[Team Member 3]** | [linkedin.com/in/profile3](www.linkedin.com/in/hana-abd-el-kader) |
-| **Ahmed Abdelaazem** | [linkedin]([https://linkedin.com/in/profile4](https://www.linkedin.com/in/ahmed-abdelazeem466)) |
+| **Ahmed Abdelaazem** | [linkedin](https://www.linkedin.com/in/ahmed-abdelazeem466)) |
 
 ---
 
