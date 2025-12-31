@@ -237,19 +237,6 @@ Random Forest was selected over other algorithms due to:
 | `offline_listening` | Offline mode usage | Binary |
 | `is_churned` | Churn status (target variable) | Binary |
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -270,7 +257,5 @@ For questions, suggestions, or collaboration opportunities:
 <div align="center">
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
-
-Made with ❤️ by the Spotify Churn Prediction Team
 
 </div>
