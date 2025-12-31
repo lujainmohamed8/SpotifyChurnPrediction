@@ -19,12 +19,11 @@
 
 | Team Member | LinkedIn |
 |-------------|----------|
-| **[Team Member 1]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile1) |
-| **[Team Member 2]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile2) |
-| **[Team Member 3]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile3) |
-| **[Team Member 4]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile4) |
+| **[Lujain Mohamed]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/profile1](https://www.linkedin.com/in/lujain-mohamed88/)) |
+| **[Elham Mohamed]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile2) |
+| **[Hana Abdelkader]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/profile3](https://www.linkedin.com/in/hana-abd-el-kader/)) |
+| **[Ahmed Abdelazem]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/profile4](https://www.linkedin.com/in/ahmed-abdelazeem466)) |
 
-> **Note**: Replace the placeholder names and LinkedIn URLs with your actual team members' information.
 
 ---
 
