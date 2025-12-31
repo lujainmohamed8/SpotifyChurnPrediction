@@ -19,11 +19,10 @@
 
 | Team Member | LinkedIn |
 |-------------|----------|
-| **[Lujain Mohamed]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/profile1](https://www.linkedin.com/in/lujain-mohamed88/)) |
-| **[Elham Mohamed]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile2) |
-| **[Hana Abdelkader]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/profile3](https://www.linkedin.com/in/hana-abd-el-kader/)) |
-| **[Ahmed Abdelazem]** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/profile4](https://www.linkedin.com/in/ahmed-abdelazeem466)) |
-
+| **[Team Member 1]** | [linkedin.com/in/profile1](https://linkedin.com/in/profile1) |
+| **[Team Member 2]** | [linkedin.com/in/profile2](https://linkedin.com/in/profile2) |
+| **[Team Member 3]** | [linkedin.com/in/profile3](www.linkedin.com/in/hana-abd-el-kader) |
+| **[Team Member 4]** | [linkedin.com/in/profile4]([https://linkedin.com/in/profile4](https://www.linkedin.com/in/ahmed-abdelazeem466)) |
 
 ---
 
