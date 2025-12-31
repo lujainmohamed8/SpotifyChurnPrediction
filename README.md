@@ -19,7 +19,7 @@
 
 | Team Member | LinkedIn |
 |-------------|----------|
-| **Lujain Mohamed** | [linkedin](https://linkedin.com/in/profile1) |
+| **Lujain Mohamed** | [linkedin]((https://www.linkedin.com/in/lujain-mohamed88/)) |
 | **Elham Mohamed** | [linkedin](https://linkedin.com/in/profile2) |
 | **Hana AbdelKader** | [linkedin](https://www.linkedin.com/in/hana-abd-el-kader) |
 | **Ahmed Abdelaazem** | [linkedin](https://www.linkedin.com/in/ahmed-abdelazeem466) |
